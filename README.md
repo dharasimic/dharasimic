@@ -1,5 +1,5 @@
 # ✨ Hey, I'm Dhara!
-👩‍💻 QA Intern at ModalGR, passionate about quality and problem-solving.<br>🎓 Studying Analysis and Systems Development at Fatec Rubens Lara.<br>🧩 Love tackling challenges, puzzles, and logical problems.<br>🚀 Always learning and striving for growth in tech & beyond.
+👩‍💻 Junior QA Analyst at Mosten, passionate about quality and problem-solving.<br>🎓 Studying Analysis and Systems Development at Fatec Rubens Lara.<br>🧩 Love tackling challenges, puzzles, and logical problems.<br>🚀 Always learning and striving for growth in tech & beyond.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dharasimic&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)
